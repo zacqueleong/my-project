@@ -1,9 +1,11 @@
 # my-project
 
+Initial Release
+Publish Date: 4 July 2023
+File: app.js
+
 This is a project created by following the insturctions from Sigma School's GitHub Assignment.
 
-Initial Release
+This project helps me to understand how to use GitHub.
 
-Publish Date: 4 July 2023
-
-File: app.js
+I have added a new line of text here! Please pull me.
